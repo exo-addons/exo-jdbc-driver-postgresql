@@ -28,14 +28,14 @@
     </parent>
     <groupId>org.exoplatform.addons.exo-jdbc-driver-postgresql</groupId>
     <artifactId>exo-jdbc-driver-postgresql</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.x-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>eXo Platform Postresql driver</name>
     <description>eXo Platform Postgresql driver</description>
     <scm>
         <connection>scm:git:git://github.com/exo-addons/exo-jdbc-driver-postgresql.git</connection>
         <developerConnection>scm:git:git@github.com:exo-addons/exo-jdbc-driver-postgresql.git</developerConnection>
-        <tag>1.0.0</tag>
+        <tag>HEAD</tag>
         <url>https://github.com/exo-addons/exo-jdbc-driver-postgresql</url>
     </scm>
     <properties>
