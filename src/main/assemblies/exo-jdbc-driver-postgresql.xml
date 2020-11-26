@@ -8,6 +8,9 @@
     <dependencySets>
         <dependencySet>
             <useProjectArtifact>false</useProjectArtifact>
+            <excludes>
+                <exclude>org.checkerframework:checker-qual</exclude>
+            </excludes>
             <scope>provided</scope>
         </dependencySet>
     </dependencySets>
