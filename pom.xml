@@ -25,11 +25,11 @@
     <parent>
         <artifactId>addons-parent-pom</artifactId>
         <groupId>org.exoplatform.addons</groupId>
-        <version>15</version>
+        <version>17-exo</version>
     </parent>
     <groupId>org.exoplatform.addons.exo-jdbc-driver-postgresql</groupId>
     <artifactId>exo-jdbc-driver-postgresql</artifactId>
-    <version>2.4.x-SNAPSHOT</version>
+    <version>2.5.x-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>eXo Platform Postresql driver</name>
     <description>eXo Platform Postgresql driver</description>
@@ -41,7 +41,7 @@
     </scm>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <postgresql.driver.version>42.6.1</postgresql.driver.version>
+        <postgresql.driver.version>42.7.4</postgresql.driver.version>
     </properties>
     <dependencies>
         <dependency>
