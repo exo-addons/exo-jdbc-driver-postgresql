@@ -8,6 +8,7 @@ See [official download page](https://jdbc.postgresql.org/) for more information.
 
 | Addon version | Jdbc Driver version | Recommanded for eXo version |
 | ------------- | ------------------- | --------------------------- |
+| 2.5.2         | 42.7.9              | >= 7.2.x                    |
 | 2.5.1         | 42.7.8              | >= 7.1.x                    |
 | 2.5.0         | 42.7.4              | >= 7.0.x                    |
 | 2.4.1         | 42.6.1              | >= 6.5.x                    |
